@@ -6,7 +6,7 @@
 <img align="right" alt="coding" wdith="400" src="https://media.tenor.com/NTd2dM_abZIAAAAi/brown-bear-and-cony-coffee.gif">
 
 
-- 🌱 I’m currently learning **Ba**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **maryannjose129@gmail.com**
 
