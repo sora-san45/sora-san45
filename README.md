@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sora-san45&show_icons=true&locale=en" alt="sora-san45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sora-san45&" alt="sora-san45" /></p>
+
+![Snake animation](https://github.com/sora-san45/sora-san45/blob/output/github-contribution-grid-snake.svg)
