@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sora Chan</h1>
+<h1 align="center">Hi 👋, I'm Mary Ann Jose</h1>
 <h3 align="center">Open Source Enthusiast</h3>
 <img align="right" alt="coding" wdith="400" src="https://media.tenor.com/NTd2dM_abZIAAAAi/brown-bear-and-cony-coffee.gif">
 
