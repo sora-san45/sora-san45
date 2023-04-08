@@ -21,9 +21,16 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sora-san45&show_icons=true&locale=en&layout=compact" alt="sora-san45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sora-san45&show_icons=true&locale=en" alt="sora-san45" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sora-san45&" alt="sora-san45" /></p>
+## 📈 Stats
+```
+ctrl+c ctrl+v                 24 hrs 00 mins      █████████████████████████   100.0%
+```
+<table>
+  <tr>
+    <td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
+    <td><img align="" width="" alt="🦑" src="/lang.svg"></td>
+  </tr>
+</table>
 
 
 
